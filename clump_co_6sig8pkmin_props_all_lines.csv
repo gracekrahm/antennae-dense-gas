@@ -1,4 +1,4 @@
-ncl,cltype,LCO,LCOerr,LHCO,LHCOerr,LHCN,LHCNerr,vel_dispCO,vel_dispCOerr,vel_dispHCO,vel_dispHCOerr,vel_dispHCN,vel_dispHCNerr,maj,min,R,Rerr,area,perim,LHCO43,LHCO43err,vel_dispHCO43,vel_dispHCO43err,LHCN43,LHCN43err,vel_dispHCN43,vel_dispHCN43err,L13CO,L13COerr,vel_disp13CO,vel_disp13COerr,
+ncl,cltype,LCO,LCOerr,LHCO,LHCOerr,LHCN,LHCNerr,vel_dispCO,vel_dispCOerr,vel_dispHCO,vel_dispHCOerr,vel_dispHCN,vel_dispHCNerr,maj,min,R,Rerr,area,perim,LHCO43,LHCO43err,vel_dispHCO43,vel_dispHCO43err,LHCN43,LHCN43err,vel_dispHCN43,vel_dispHCN43err,L13CO,L13COerr,vel_disp13CO,vel_disp13COerr
 1,2,1.174e+06,38.52,5.194e+04,15.19,1.811e+04,15.12,22.13,0.2709,18.81,0.2428,22.33,0.5356,32.19,53.3,60.46,20.45,1.603e+04,681.6,nan,nan,nan,nan,16.26,12.7,0.1511,89.76,1.491e+05,15.08,20.93,0.2241
 2,2,1.092e+06,37.44,6.186e+04,15.03,2.728e+04,15.11,17.82,0.2267,15.81,0.2136,18.18,0.359,35.83,54.66,65.55,10.36,2.165e+04,1104,nan,nan,nan,nan,nan,nan,nan,nan,1.942e+05,14.94,16.8,0.1823
 3,2,9.577e+05,34.06,3.927e+04,14.58,1.529e+04,14.59,19.61,0.2598,16.96,0.2004,16.4,0.3255,43.15,25.16,44.61,8.739,1.873e+04,873.5,nan,nan,nan,nan,nan,nan,nan,nan,1.56e+05,14.53,18.92,0.1911
