@@ -1,0 +1,4 @@
+ncl,cltype,LCO,LCOerr,LHCO,LHCOerr,LHCN,LHCNerr,vel_dispCO,vel_dispCOerr,vel_dispHCO,vel_dispHCOerr,vel_dispHCN,vel_dispHCNerr,maj,min,R,Rerr,area,perim
+2,2,1.933e+08,1.941e+07,3.742e+06,3.879e+05,nan,nan,29.6,0.9204,32.46,1.889,nan,nan,223.5,369.5,379.6,117.4,8.902e+05,5973
+4,2,5.077e+08,5.085e+07,nan,nan,nan,nan,82.91,4.054,nan,nan,nan,nan,321.5,238.3,358.3,112.3,2.051e+06,9599
+10,2,3.774e+08,3.781e+07,8.06e+06,8.187e+05,nan,nan,60.4,2.13,50.8,1.968,nan,nan,217.2,447.8,427.7,194.7,1.038e+06,5333
